@@ -1,1 +1,2 @@
-# pensamentocomputacional
+# pensamentocomputacional1a
+##turmamanhã
